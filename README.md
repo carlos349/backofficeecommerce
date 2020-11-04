@@ -1,2 +1,2 @@
-# backofficeecommerce
-produccion del backoffice del ecommerce
+# ecommerce-buildaleo
+administrador de ecommerce, repositorio de producción
